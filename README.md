@@ -19,8 +19,8 @@
 
 📫 **Get in Touch**:
 - [Email](mailto:meshacklocho@meshacklocho.co.ke)
-- [Website]("https://meshacklocho.co.ke")
-- [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/meshack-locho-41260b239/))
+- [Website](https://meshacklocho.co.ke)
+- [LinkedIn](https://www.linkedin.com/in/meshack-locho-41260b239/)
 - [Twitter](https://x.com/MeshDev61001)
 - [Dribble](https://dribbble.com/Meshack_Locho)
 
