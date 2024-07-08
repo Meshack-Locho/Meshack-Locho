@@ -1,4 +1,4 @@
-![Alt Text](https://meshacklocho.co.ke/Gifs/gif2-unscreen.gif)
+![Alt Text](https://github.com/Meshack-Locho/Meshack-Locho/blob/main/gif2-unscreen.gif)
 
 👋 Hi there! I’m **Meshack Locho**, a passionate Web Developer based in Nairobi, Kenya. I specialize in building and designing modern, responsive websites and web applications. 
 
