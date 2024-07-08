@@ -1,3 +1,5 @@
+![Alt Text](https://meshacklocho.co.ke/Gifs/gif2-unscreen.gif)
+
 👋 Hi there! I’m **Meshack Locho**, a passionate Web Developer based in Nairobi, Kenya. I specialize in building and designing modern, responsive websites and web applications. 
 
 🔧 **Skills**:
