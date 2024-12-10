@@ -8,7 +8,8 @@
 - Database: MySQL
 - Tools: Git, Figma, ChromeDevTools, Google Lighthouse
 
-🚀 **Current Projects**:
+🚀 **Recent Projects**:
+- [E-commerce Website](https://meshacklocho.co.ke/ec-website2): A fully functional ecommerce website for a new store.
 - [Bible Web App](https://github.com/users/Meshack-Locho/projects/2): An interactive web app for Bible study and learning.
 - [My Portfolio](https://meshacklocho.co.ke/): A showcase of my work and skills.
 
