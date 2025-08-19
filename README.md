@@ -9,9 +9,9 @@
 - Tools: Git, Figma, ChromeDevTools, Google Lighthouse
 
 🚀 **Recent Projects**:
-- [E-commerce Website](https://meshacklocho.co.ke/ec-website2): A fully functional ecommerce website for a new store.
-- [Bible Web App](https://github.com/users/Meshack-Locho/projects/2): An interactive web app for Bible study and learning.
-- [My Portfolio](https://meshacklocho.co.ke/): A showcase of my work and skills.
+- [E-commerce Website](https://afribeauty.co.ke): A fully functional ecommerce website for a new store.
+- [Property Management Software](https://njiwahub.com): A Fullstack property management system for kenyan rentals.
+- [My Portfolio/Business Page](https://devuretechnologies.com/): A showcase of my work and skills.
 
 🌱 **Open Source Contributions**:
 - Contributor to [My Repository](https://github.com/Meshack-Locho/E-commerce-Store-With-Paypal-and-MPESA-STK-Push-Payment): Worked on creating an ecommerce store with locally used payments.
